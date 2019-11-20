@@ -1,0 +1,2 @@
+¼ö 11 20 23:54:53 2019 - Info: test! in %2 file: C:\Users\taehy\source\repos\Qt_Core_IM_23\Qt_Core_IM_23\main.cpp line: 12
+¼ö 11 20 23:54:53 2019 - Info: Finished in %2 file: C:\Users\taehy\source\repos\Qt_Core_IM_23\Qt_Core_IM_23\main.cpp line: 18
